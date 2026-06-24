@@ -7,5 +7,5 @@
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/RG40719y/image-2026-06-24-161911747.png">
+  <img src="https://i.ibb.co/kVrTZYMN/image-2026-06-24-162214387.png">
 </p>
