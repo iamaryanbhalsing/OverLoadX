@@ -37,7 +37,7 @@ This repository is intended solely for educational and defensive cybersecurity p
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone `
+  * `git clone https://github.com/iamaryanbhalsing/OverLoadX`
   * `cd OverLoadX/`
   * `pip3 install -r requirements.txt`
   * `python3 overloadx.py --help`
@@ -45,7 +45,7 @@ This repository is intended solely for educational and defensive cybersecurity p
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone `
+  * `git clone https://github.com/iamaryanbhalsing/OverLoadX`
   * `cd OverLoadX/`
   * `pip3 install -r requirements.txt`
   * `python3 overloadx.py --help`
