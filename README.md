@@ -37,8 +37,8 @@ This repository is intended solely for educational and defensive cybersecurity p
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `python3 -m venv venv
-source venv/bin/activate`
+  * `python3 -m venv venv`
+  * `source venv/bin/activate`
   * `git clone https://github.com/iamaryanbhalsing/OverLoadX`
   * `cd OverLoadX/`
   * `pip3 install -r requirements.txt`
